@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProyectoSQM</string>
+    <string name = "titulo">Componentes basicos:</string>
+    <string name = "titulo_btn">Botones circulares</string>
+    <string name = "titulo_check">cajas de chequeo</string>
+    <string name = "titulo_toogle">Boton "toogle"</string>
+    <string name = "titulo_swhitch">Switch</string>
+    <string name = "titulo_image">Boton con imagen</string>
+    <string name = "radio_btn_1">Seleccion 1 (boton circular)</string>
+    <string name = "radio_btn_2">Seleccion 2 (boton circular)</string>
+    <string name = "check_box_1">Seleccion 1 (chequeo)</string>
+    <string name = "check_box_2">Seleccion 2 (chequeo)</string>
+    <string name = "btn_Off">Apagado</string>
+    <string name = "btn_On">Encendido</string>
+    <string name="finalBoton">Oprimeme</string>
+</resources>
